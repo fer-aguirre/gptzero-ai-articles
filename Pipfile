@@ -11,8 +11,14 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 requests = "*"
+pipdeptree = "*"
+beautifulsoup4 = "*"
+tqdm = "*"
+minet = "*"
+clean-text = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "*"
